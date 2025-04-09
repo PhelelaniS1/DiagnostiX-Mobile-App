@@ -58,7 +58,7 @@ DiagnostiX streamlines the diagnostic workflow by:
 ## 🎥 Presentation
 
 📽️ Check out our full concept and demo walkthrough on Gamma:  
-👉 [View Presentation on Gamma](https://gamma.app/docs/DiagnostiX-App-e70wugaixz0vqaf?mode=doc)
+👉 [View Presentation](https://drive.google.com/file/d/1iae4QByW9_C1lu090OnPQD7JsUsNAE6S/view?usp=sharing)
 
 ---
 
