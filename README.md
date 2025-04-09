@@ -51,7 +51,7 @@ DiagnostiX streamlines the diagnostic workflow by:
 
 | Home Screen | Symptom Entry | Doctor Dashboard |
 |-------------|----------------|-------------------|
-| ![Home](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/17bcc9e9cb666539192bd0e2288a4c5abd7e8fa2/Doctor's%20profile.png) | ![Symptom](assets/screenshots/symptom-entry.png) | ![Dashboard](assets/screenshots/doctor-dashboard.png) |
+| ![Home](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/17bcc9e9cb666539192bd0e2288a4c5abd7e8fa2/Doctor's%20profile.png) | ![Symptom](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/df1e208afbe363865c4478eee924f866463e9d17/Symptom.png) | ![Dashboard](assets/screenshots/doctor-dashboard.png) |
 
 ---
 
