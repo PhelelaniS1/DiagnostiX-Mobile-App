@@ -1,0 +1,9 @@
+diagnostix-mobile-app/
+├── README.md
+├── assets/
+│   ├── wireframes/
+│   ├── screenshots/
+│   └── pitch-deck/
+├── docs/
+│   └── Gamma-Presentation-Link.txt
+└── .gitignore
