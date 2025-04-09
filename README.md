@@ -51,7 +51,7 @@ DiagnostiX streamlines the diagnostic workflow by:
 
 | Home Screen | Symptom Entry | Doctor Dashboard |
 |-------------|----------------|-------------------|
-| ![Home](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/bed7aaf46807e1b4f7fc2d2f15715dcdd30691bb/Wireframe%20homescreen.png) | ![Symptom](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/df1e208afbe363865c4478eee924f866463e9d17/Symptom.png) | ![Dashboard](assets/screenshots/doctor-dashboard.png) |
+| ![Home](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/bed7aaf46807e1b4f7fc2d2f15715dcdd30691bb/Wireframe%20homescreen.png) | ![Symptom](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/df1e208afbe363865c4478eee924f866463e9d17/Symptom.png) | ![Dashboard](https://github.com/PhelelaniS1/DiagnostiX-Mobile-App/blob/0f55b9ccbc555a3c09f4bfe01fea587f528d6494/Doctor's%20profile.png) |
 
 ---
 
@@ -64,10 +64,11 @@ DiagnostiX streamlines the diagnostic workflow by:
 
 ## 👩🏽‍💻 Meet the Team
 
-- [Your Name] – UI/UX Designer  
-- [Teammate 1] – Backend Developer  
-- [Teammate 2] – Frontend Developer  
-- [Teammate 3] – Project Manager
+- [Phelelani Sithole] – UI/UX Designer  
+- [Michae Labistour] – Product Manager  
+- [Mbavhalelo Budeli] – Data Analyst 
+- [Lorreta Matinhima] – Project Manager
+- [Lorrah Ngobeni] - UX Researcher
 
 ---
 
